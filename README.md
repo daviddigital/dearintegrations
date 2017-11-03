@@ -58,3 +58,39 @@ Example structure
  "CreditLimit": 0
 }
 
+Zapier Fields: 
+
+Label	Key	Dynamic Dropdown	Required	Sort	Actions
+Discount	Discount	none		 	 Edit   Delete
+AdditionalAttribute1	AdditionalAttribute1	none		 	 Edit   Delete
+Contact's Name	Name	none		 	 Edit   Delete
+Contact's Default	Default	none		 	 Edit   Delete
+Contact's Phone	Phone	none		 	 Edit   Delete
+Contact's Fax	Fax	none		 	 Edit   Delete
+Contact's Email	Email	none		 	 Edit   Delete
+Contact's Website	Website	none		 	 Edit   Delete
+Contact's Comment	Comment	none		 	 Edit   Delete
+Contact's IncludeInEmail	IncludeInEmail	none		 	 Edit   Delete
+Customer Name	Customer_Name	none		 	 Edit   Delete
+Currency	Currency	none		 	 Edit   Delete
+PaymentTerm	PaymentTerm	none		 	 Edit   Delete
+TaxRule	TaxRule	none		 	 Edit   Delete
+AccountReceivable	AccountReceivable	none		 	 Edit   Delete
+Revenue Account	RevenueAccount	none		 	 Edit   Delete
+Status	Status	none		 	 Edit   Delete
+Carrier	Carrier	none		 	 Edit   Delete
+Sales Representative	SalesRepresentative	none		 	 Edit   Delete
+Location	Location	none		 	 Edit   Delete
+Comments	Comments	none		 	 Edit   Delete
+Price Tier	PriceTier	none		 	 Edit   Delete
+Tax Number	TaxNumber	none		 	 Edit   Delete
+Tags	Tags	none		 	 Edit   Delete
+Credit Limit	CreditLimit	none		 	 Edit   Delete
+Address Default for Type	DefaultForType	none		 	 Edit   Delete
+Address Line1	Line1	none		 	 Edit   Delete
+Address Line2	Line2	none		 	 Edit   Delete
+Address City	City	none		 	 Edit   Delete
+Address State	State	none		 	 Edit   Delete
+Address Postcode	Postcode	none		 	 Edit   Delete
+Address Type	Type	none		 	 Edit   Delete
+Address Country	Country	none		 	 Edit   Delete
