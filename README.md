@@ -1,9 +1,9 @@
 # dearintegrations
-A collection of notes for setting up DEAR Inventory API on Zapier
+A collection of notes /code snippets for setting up DEAR Inventory API on Zapier
 
-1. Using the Create endpoint or the POST API request requires a workaround as there is a "Name" field for both Customers and Contacts. 
+1. List Contacts and Addresses as Parent Keys. Be sure to check "include in JSON body"
 
-2. List Contacts and Addresses as Parent Keys
+2. Using the Create endpoint for the POST API request requires a workaround as there is a "Name" field for both Customers and Contacts
 
 Zapier App is currently private/email only - if interested please contact and I will forward to you
 
