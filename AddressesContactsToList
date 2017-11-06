@@ -1,0 +1,4 @@
+var addresslist = [];
+addressList.push({Line1:input.addressBillingLine1, Type:"Billing"});
+addressList.push({Line1:input.addressShippingLine1, Type:"Shipping"});
+output = [{id: inputData.contactID, Addresses: addressList}];
