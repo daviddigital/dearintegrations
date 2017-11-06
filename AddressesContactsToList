@@ -1,4 +1,4 @@
 var addressList = [];
-addressList.push({Line1:input.addressBillingLine1, Type:"Billing"});
-addressList.push({Line1:input.addressShippingLine1, Type:"Shipping"});
+addressList.push({Line1:input.addressBillingLine1, Line2:input.addressBillingLine2, City:input.addressBillingCity, State:input.addressBillingState, Postcode:input.addressBillingPostcode, Country:input.addressBillingCountry, Type:"Billing"});
+addressList.push({Line1:input.addressShippingLine1, Line2:input.addressShippingLine2, City:input.addressShippingCity, State:input.addressShippingState, Postcode:input.addressShippingPostcode, Country:input.addressShippingCountry, Type:"Shipping"});
 output = [{Addresses: addressList}];
