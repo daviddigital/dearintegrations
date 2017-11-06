@@ -58,10 +58,10 @@ Example structure
  "CreditLimit": 0
 }
 
-#namescript 
+# namescript 
 
 To handle Zapier issue in not being able to have the "Name" key for both Customer and Contact sub-dictionary 
 
-#addresscontacts
+# addresscontacts
 
 To handle a flat structure (this example was a hubspot form) with multiple contacts, addresses, to map to the sub-dictionary 
