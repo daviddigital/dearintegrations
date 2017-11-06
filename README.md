@@ -60,8 +60,11 @@ Example structure
 
 # namescript 
 
+Node 4.3.2
+
 To handle Zapier issue in not being able to have the "Name" key for both Customer and Contact sub-dictionary 
 
 # addresscontacts
 
+Node 4.3.2
 To handle a flat structure (this example was a hubspot form) with multiple contacts, addresses, to map to the sub-dictionary 
