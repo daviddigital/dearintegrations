@@ -11,6 +11,7 @@ Zapier App is currently private/email only and set up for a client - if interest
 
 Example structure
 
+```javascript
 {
  "Addresses": [
  {
@@ -57,7 +58,7 @@ Example structure
  "Status": "Active",
  "CreditLimit": 0
 }
-
+```
 # namescript 
 
 Node 4.3.2
